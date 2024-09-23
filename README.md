@@ -1,4 +1,5 @@
 Input Practice
+
 This project is a simple example of a form using HTML, CSS, and JavaScript to capture user input and display the information on the page.
 
 Technologies Used
